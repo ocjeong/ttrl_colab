@@ -1,3 +1,6 @@
+load_messege = "A simple example module loaded"
+print(load_messege)
+
 class module:
     """A simple example class"""
     def __init__(self):    
