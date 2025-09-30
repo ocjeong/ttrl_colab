@@ -11,8 +11,8 @@ class module:
     
     i = 12345
         
-    load_messege = "A simple example class loaded"
-    print(load_messege)
+    class_messege = "A simple example class loaded"
+    print(class_messege)
 
     def f(self):
         return "hello world"       
