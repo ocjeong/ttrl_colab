@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 load_messege = "A simple example module loaded"
 print(load_messege)
 
