@@ -10,7 +10,7 @@ class module:
         self.data = []
     
     class_messege = "A simple example class loaded"
-    print(class_messege)
+    # print(class_messege)
 
     i = 12345
         
