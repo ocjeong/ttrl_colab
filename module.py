@@ -12,7 +12,8 @@ class module:
     class_messege = "A simple example class loaded"
     # print(class_messege)
 
-    i = 12345
+    i = 12_345
+    j = 54_321
         
     def f(self):
         return "hello world"       
