@@ -9,10 +9,10 @@ class module:
     def __init__(self):    
         self.data = []
     
-    i = 12345
-        
     class_messege = "A simple example class loaded"
     print(class_messege)
 
+    i = 12345
+        
     def f(self):
         return "hello world"       
