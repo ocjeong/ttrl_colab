@@ -3,7 +3,7 @@
 load_messege = "A simple example module loaded"
 print(load_messege)
 
-class module:
+class Module:
     """A simple example class"""
 
     class_messege = "A simple example class loaded"
